@@ -5,7 +5,7 @@ Below is a snapshot of the dataset.
 
 ## Step wise explaination of the techniques used :
 
-1.Data Preprocessing
+1.Data Preprocessing <br>
 2.Transforming Dataset using TF-IDF Vectorizer
 3. building Model
 
