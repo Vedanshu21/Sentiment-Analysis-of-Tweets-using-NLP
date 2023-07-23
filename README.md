@@ -1,6 +1,6 @@
 # Sentiment-Analysis-of-Tweets-using-NLP
 It is an NLP-based Twitter sentiment analysis model that aids in overcoming the difficulties associated with tweet sentiment classification. The tweets will be categorized as having positive or negative sentiments. For this analysis, Sentiment140 Dataset is used to contain 1,600000 tweets categorized as positive and negative.
-Below is a snapshot of the dataset.
+Below is a snapshot of the dataset.<br><br>
 <img width="596" alt="image" src="https://github.com/Vedanshu21/Sentiment-Analysis-of-Tweets-using-NLP/assets/83238429/accb6fe1-c190-4bb1-b44f-cbfe7ba28158">
 
 ## Step-wise explanation of the techniques used :
